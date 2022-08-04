@@ -1,0 +1,62 @@
+
+.NextStep{
+    background-color: #3e9e18;
+    color: #fff;
+    padding: 10px 30px;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px;
+    margin-left: 20px;
+}
+.NextStep:hover{
+    background-color: rgb(51, 124, 51);
+}
+.NextStep[disabled]{
+    display: none;
+}
+
+p{
+    text-align: center;
+    font-size: 27px;
+    margin-top: 40px;
+    
+}
+
+
+.Content  {
+    background-color: #f5f5f5;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    width: auto;
+    margin: 130px;
+    padding: 20px;
+    // border: 2px solid black;
+    // height: 100vh;
+    
+}
+
+#dash{
+    
+    margin-bottom: 10px;
+    width: 120px;
+    background-color: #66806A;
+    border-radius: 5px;
+    color: honeydew;
+}
+#logout{
+    margin-left: 2%;
+    margin-bottom: 10px;
+    width: 120px;
+    background-color: #66806A;
+    border-radius: 5px;
+    color: honeydew;
+}
+
+.finalpage{
+    border: 1px solid #D3E4CD;
+}
+.finalpage h1{
+    font-weight: bold;
+}

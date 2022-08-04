@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+.category{
+    
+    background-size: cover;
+    height: 100vh;
+
+}
+.category h1{
+    text-align: center;
+    color: #9B72AA;
+    font-weight: bold;
+}
+#html,#css,#js{
+    position: relative;
+    left: 40%;
+    padding: 20px;
+    width:15%;
+    font-size: 25px;
+    margin-top: 5%;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background-color: #C6B4CE;
+    color: #542E71;
+    font-weight: bold;
+}

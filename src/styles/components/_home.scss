@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#main1{
+    background-image: url('../../assets/Images/pic.jpg');
+    background-size: cover;
+    height: 100vh;
+
+}
+#main1 h1{
+    position: absolute;
+    top: 10px;
+    left: 20%;
+    font-size:50px;
+    font-weight: 30px;
+    letter-spacing: 4px;
+    text-align: center;
+    color:  #D3E0EA;
+}
+#main1 h3{
+    position: absolute;
+    top: 30%;
+    left: 32%;
+    font-size: 36px;
+    text-align: center;
+    font-style: italic;
+    font-weight: 10px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    color: #0A1931;
+}
+#btn{
+    position: absolute;
+    top: 70%;
+    left: 44%;
+    height: 50px;
+    width: 140px;
+    font-size: 23px;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #D3E0EA;
+    color: #0A1931;
+}
